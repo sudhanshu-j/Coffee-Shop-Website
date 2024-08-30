@@ -45,6 +45,7 @@ File Structure
 
 Coffee-Shop-Website/
 
+    ├── images                  # Main Images Folder
     ├── index.html              # Main landing page               
     ├── style.css               # Main stylesheet
     ├── script.js               # Main JavaScript file
