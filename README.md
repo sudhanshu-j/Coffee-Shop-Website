@@ -6,7 +6,7 @@ This repository contains the code for a responsive website with a clean and mode
 
 You can view a live demo of the project by visiting the following link:
 
- 🔴[Live Demo]([https://example.com](https://coffeeclassicscafe.netlify.app/)
+ 🔴[Live Demo](https://coffeeclassicscafe.netlify.app/)
 
 ## Table of Contents
 
