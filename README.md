@@ -2,6 +2,12 @@
 
 This repository contains the code for a responsive website with a clean and modern UI. The project includes an interactive Hamburger Menu, a Search Form, and a Shopping Cart component that can be toggled open or closed. It is designed with mobile-first responsiveness, meaning the site adapts to different screen sizes seamlessly.
 
+## Live Demo
+
+You can view a live demo of the project by visiting the following link:
+
+ 🔴[Live Demo]([https://example.com](https://coffeeclassicscafe.netlify.app/)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -182,12 +188,6 @@ The JavaScript file adds interactivity to the page. Here are the key features im
 - **Cart Button**: Clicking the cart button opens or closes the shopping cart, hiding the navbar and search form.
 
 - **Scroll Behavior**: If the user scrolls, all pop-ups (navbar, search form, cart) close automatically.
-
-## Live Demo
-
-You can view a live demo of the project by visiting the following link:
-
-[Live Demo](https://example.com)
 
 ## Customization
 
